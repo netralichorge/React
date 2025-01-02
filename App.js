@@ -8,6 +8,9 @@ import Demo from './components/Demo';
 import Practice from './components/Practice';
 import ChangeName from './components/ChangeName';
 import ChangeYear from './components/ChangeYear';
+import Counter from './components/Counter';
+import EvenOdd from './components/EvenOdd';
+import DisplayName from './components/DisplayName';
 
 function App() {
   return (
@@ -26,7 +29,10 @@ function App() {
       <Practice/>
       <ChangeName/>
       <ChangeYear/>
-
+      <EvenOdd/>
+      <Counter/>
+      <DisplayName/>
+    
     </div>
   );
 }
