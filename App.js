@@ -11,13 +11,14 @@ import ChangeYear from './components/ChangeYear';
 import Counter from './components/Counter';
 import EvenOdd from './components/EvenOdd';
 import DisplayName from './components/DisplayName';
+import LoggedIn from './components/LoggedIn';
 
 function App() {
   return (
     <div className="App">
-
+      <LoggedIn/>
       <h1>Hello</h1> 
-
+      
       <Header/>
       <Footer/>
       <Student id={101} name="Priti"/>
@@ -32,6 +33,7 @@ function App() {
       <EvenOdd/>
       <Counter/>
       <DisplayName/>
+      
     
     </div>
   );

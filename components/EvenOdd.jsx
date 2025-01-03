@@ -32,6 +32,8 @@ function EvenOdd()
 
             }} />
             <h1>{answer}</h1>
+
+            <hr />
         </div>
     );
 }

@@ -8,6 +8,7 @@ class Practice extends React.Component
             <div>
 
                 <h1>Practice Class</h1>
+                <hr />
             </div>
         );
     }

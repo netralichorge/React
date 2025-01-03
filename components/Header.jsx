@@ -12,6 +12,7 @@ function Header()
         <p>Student Id:{student.id}</p>
         <p>Student Name:{student.name}</p>
 
+<hr />
         </div>
     );
 }

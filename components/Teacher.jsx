@@ -9,6 +9,7 @@ function Teacher({teacherId,teacherName})
                 <li>{teacherName}</li>
             </ol>
 
+            <hr />
         </div>
     );
 

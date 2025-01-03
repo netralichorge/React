@@ -7,6 +7,8 @@ function Student ({id,name})
                 <li>{id}</li>
                 <li>{name}</li>
             </ul>
+
+            
         </div>
 
     );

@@ -10,7 +10,10 @@ class Demo extends React.Component
                 <h1>Class Based Component</h1>
                 <p>{this.props.message}</p>
                 <p>{this.props.year}</p>
+
+                <hr />
             </div>
+        
         );
     }
 

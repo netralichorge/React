@@ -4,7 +4,9 @@ function Footer()
     return (
 
         <h1>Footer Component {number}</h1>
+        
     );
+   
 }
 
 export default Footer;
